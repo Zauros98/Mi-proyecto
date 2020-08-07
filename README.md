@@ -2,5 +2,5 @@
 Sistema de control digital
 
 ## Propietarios
-P Pérez
+P Pérez<br>
 A Negrete
