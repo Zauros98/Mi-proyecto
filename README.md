@@ -2,5 +2,6 @@
 Sistema de control digital
 
 ## Propietarios
-. P Pérez
-. A Negrete
+P Pérez
+
+A Negrete
